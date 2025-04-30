@@ -61,7 +61,7 @@
 - Drillable visuals for state-to-constituency-level analysis  
 
 ---
-### [PBIX file] (https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Election%20Board.pbix)
+### [PBIX file](https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Election%20Board.pbix)
 ### [SQL Queries] (https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Fired%20Queries.sql)
 ### [Raw File] (https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Raw%20data%20for%20election.zip)
 ## 🧩 Conclusion
