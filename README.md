@@ -1,4 +1,5 @@
 # Electoral-Insights-Performance-Dashboard
+!(https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/download.png)
 # 🗳️ VoteScope: Electoral Insights & Performance Dashboard
 
 ## 📌 Project Overview
@@ -60,7 +61,9 @@
 - Drillable visuals for state-to-constituency-level analysis  
 
 ---
-
+### [PBIX file] (https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Election%20Board.pbix)
+### [SQL Queries] (https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Fired%20Queries.sql)
+### [Raw File] (https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/Raw%20data%20for%20election.zip)
 ## 🧩 Conclusion
 
 **VoteScope** bridges the gap between raw electoral data and meaningful political insights. It enables election analysts, media, and stakeholders to explore voting outcomes in real time, assess candidate and party performance, and make data-informed interpretations of election results.
