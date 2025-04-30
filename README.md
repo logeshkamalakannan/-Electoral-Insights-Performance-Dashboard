@@ -1,5 +1,5 @@
 # Electoral-Insights-Performance-Dashboard
-!(https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/download.png)
+![](https://github.com/logeshkamalakannan/-Electoral-Insights-Performance-Dashboard/blob/main/download.png)
 # 🗳️ VoteScope: Electoral Insights & Performance Dashboard
 
 ## 📌 Project Overview
